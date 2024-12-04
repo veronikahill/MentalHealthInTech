@@ -1,1 +1,5 @@
 # MentalHealthInTech
+
+Investigating the Relationship Between Mental Health Disorders and the Workplace
+
+In today's world, focusing on mental wellbeing is more important than ever. According to the Centers for Disease Control and Prevention, more than 20% of adults in the United States are living with a mental illness (CDC, 2024). A person's mental health affects all areas of life, from socializing to contributing to society as a whole. Taking care of our mental health in everyday life has continually been a growing topic of discussion, and while there has been a recent emphasis on how the workplace explicitly affects mental health, the relationship between mental health and the workplace has been explored in psychology for decades (Kasl, 1973). It is now widely accepted that someone's environment--such as their workplace--has vital effects on shaping their wellbeing, and the relationship between the workplace and mental health continues to be studied through a social and organizational lens to gain insight into how fostering a supportive and healthy workplace can be done efficiently.
